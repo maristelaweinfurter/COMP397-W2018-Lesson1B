@@ -1,0 +1,19 @@
+{
+  "name": "comp397-w2018-lesson1b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maristelaweinfurter/COMP397-W2018-Lesson1B.git"
+  },
+  "author": "Mari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maristelaweinfurter/COMP397-W2018-Lesson1B/issues"
+  },
+  "homepage": "https://github.com/maristelaweinfurter/COMP397-W2018-Lesson1B#readme"
+}
