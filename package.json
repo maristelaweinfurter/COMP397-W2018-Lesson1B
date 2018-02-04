@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/maristelaweinfurter/COMP397-W2018-Lesson1B/issues"
   },
-  "homepage": "https://github.com/maristelaweinfurter/COMP397-W2018-Lesson1B#readme"
+  "homepage": "https://github.com/maristelaweinfurter/COMP397-W2018-Lesson1B#readme",
+  "devDependencies": {
+    "@types/easeljs": "^1.0.0"
+  }
 }
